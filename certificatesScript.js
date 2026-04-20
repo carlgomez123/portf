@@ -4,10 +4,9 @@ let certAutoScrollInterval;
 
 // Configuration - Add your certificate image paths here
 const certificateList = [
-  '/userAsset/cert1.jpg',
-  '/userAsset/cert3.jpg',
-  '/userAsset/cert4.jpg',
- 
+  'public/userAsset/cert1.jpg',
+  'public/userAsset/cert3.jpg',
+  'public/userAsset/cert4.jpg',
 ];
 
 function initializeCertificates() {
