@@ -106,7 +106,7 @@
   padding-left: 20px;
   padding-right: 20px;
   /* max-width: 1300px; */
-  left: 50%;
+  left: 47%;
   /* to center horizontally */
   transform: translate(-50%, 0%);
   /* to center horizontally */
@@ -120,6 +120,7 @@
   z-index: 10;
   position: fixed;
 }
+
 
 
 .logo-container {
